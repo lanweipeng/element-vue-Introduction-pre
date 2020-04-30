@@ -1,5 +1,5 @@
 <template>
-<div>hh</div>
+<div>hh消失</div>
 </template>
 <script>
 export default {

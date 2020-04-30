@@ -1,4 +1,4 @@
-import App from './App.js'
+import App from './App'
 import Vue from 'vue'
  new Vue({
    el:'#app',

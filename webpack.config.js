@@ -13,6 +13,7 @@ module.exports = {
     ]
   },
   resolve: {
+    extensions: ['.js', '.vue', '.json'],
     alias: {
       'vue$': 'vue/dist/vue.esm.js' //内部为正则表达式  vue结尾的
     }
